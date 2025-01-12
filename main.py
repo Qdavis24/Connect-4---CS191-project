@@ -8,5 +8,5 @@ B_H = 600
 
 
 if __name__ == "__main__":
-    game = Game(C_W, C_H, B_W, B_H, rows=6, cols=7, debug=True)
+    game = Game(C_W, C_H, B_W, B_H, rows=6, cols=7, debug=False)
 
